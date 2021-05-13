@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@dillonkearns/elm-graphql": "4.2.1",
+    "elm-format": "0.8.5"
+  },
+  "scripts": {
+    "elm-graphql": "elm-graphql http://127.0.0.1:5000/graphql --base Contact --output src/"
+  }
+}
