@@ -5,7 +5,7 @@ import Html exposing (div, text)
 import CustomScalarCodecs exposing (Id)
 import Graphql.Operation exposing (RootQuery)
 import Graphql.SelectionSet as SelectionSet exposing (SelectionSet)
-import Contact.Interface.Node
+import Contact.Interface
 
 type alias Contact =
     { id : Id
