@@ -9,7 +9,7 @@ Install:
 - elm 0.19.1
 - nodejs 14.16.0
 
-Personally I use <https://asdf-vm.com> to install this dependencies (see [`.tool-versions`](.tool-versions)):
+Personally I use <https://asdf-vm.com> to install these dependencies (see [`.tool-versions`](.tool-versions)):
 
 ```sh
 $ asdf plugin add elm
